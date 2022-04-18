@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='bawx-player',
-    version='0.9.0',
+    version='0.9.1',
     description='Karaoke player library (and more)',
     long_description= open('../README.md', 'r').read(),
     long_description_content_type="text/markdown",
